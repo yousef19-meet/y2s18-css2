@@ -18,7 +18,6 @@ Open `lab1.html` in your browser. Take a look at it, before you make all your ch
 
 - In `lab1_styles.css`, give the header class a bottom border of 1 point solid gray.
 - Give it an all-around padding of 10px.
-- Reload the page and see what happens!
 
 ## 4. Style the sidebar
 
@@ -34,7 +33,7 @@ Open `lab1.html` in your browser. Take a look at it, before you make all your ch
 
 
 ## Extras!
-### 1. Look up why there has to be `margin:0` for the body.
-### 2. Give the title a box shadow.
-### 3. Give the title text shadow.
-### 4. Remove the underline from the links in the sidebar.
+1. Look up why there has to be `margin:0` for the body.
+2. Give the title a box shadow.
+3. Give the title text shadow.
+4. Remove the underline from the links in the sidebar.
