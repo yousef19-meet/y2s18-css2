@@ -52,13 +52,13 @@ Your page should look like this when you're done:
 - In `lab2_styles.css`, add a `hover` selector, so every link has a blue background color when you hover over it.
 - Open `lab2.html` in your browser and see what happens!
 
-## 2. Hover with IDs.
+## 3. Hover with IDs.
 - In `selected_styles.css`, choose a specific paragraph, and give it an ID of `important_paragraph`.
 - When you hover over this paragraph, make the background color red, and the text size 50 pixels.
 *Hint: Check out the font-size attribute*
 - Make sure to update `lab2.html` to use `selected_styles.css` as its stylesheet. Open `lab2.html` in your browser!
 
-## 3. Hover with class selectors.
+## 4. Hover with class selectors.
 - Now, for the remaining paragraph elements on the page, add them to a class `less_important_paragraphs`.
 - When you hover over any of the paragraphs in this class, make the font color blue.
 
