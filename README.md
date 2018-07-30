@@ -33,7 +33,7 @@ Open `lab1.html` in your browser. Take a look at it, before you make all your ch
 
 
 Your page should look like this when you're done:
-![lab1_final](https://ibb.co/jif3do)
+![lab1_final](https://preview.ibb.co/dKbbyo/d3l1.png)
 
 ## Extras!
 1. Look up why there has to be `margin:0` for the body.
