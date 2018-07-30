@@ -15,14 +15,10 @@ body {
 
 .sidebar {
     width: 180px;
-    background: #ff5577;
+    background: #ff6677;
     position: absolute;
     top: 0;
     height: 100%;
-}
-
-a {
-    color: #445;
 }
 
 .main-content {
@@ -30,5 +26,4 @@ a {
     position: absolute;
     top: 0;
     left: 200px;
-    height: 100%;
 }
