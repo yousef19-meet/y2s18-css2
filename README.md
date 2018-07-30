@@ -23,8 +23,18 @@ Open `lab1.html` in your browser. Take a look at it, before you make all your ch
 ## 4. Style the sidebar
 
 - Give it a padding of 10px on the left and right, and 15px on the top and bottom.
+### Reload the page
+- Notice that the sidebar and main content are overlapping!
+- **Fix this issue** by making the width of the sidebar smaller (see the slide on total width and height to adjust your calculations)
+
+## 5. Style the main content
+- Give it a 5 pixel wide, solid, red border.
+- Give it margins of 5 pixels all around.
+- Add padding on the left and right of 15 pixels, and on the bottom of 10 pixels.
 
 
 ## Extras!
 ### 1. Look up why there has to be `margin:0` for the body.
 ### 2. Give the title a box shadow.
+### 3. Give the title text shadow.
+### 4. Remove the underline from the links in the sidebar.
