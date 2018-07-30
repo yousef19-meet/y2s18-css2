@@ -27,7 +27,7 @@ Open `lab1.html` in your browser. Take a look at it, before you make all your ch
 - **Fix this issue** by making the width of the sidebar smaller (see the slide on total width and height to adjust your calculations)
 
 ## 5. Style the main content
-- Give it a 5 pixel wide, solid, red border.
+- Give it a 5 pixel wide, solid, blue border.
 - Give it margins of 5 pixels all around.
 - Add padding on the left and right of 15 pixels, and on the bottom of 10 pixels.
 
