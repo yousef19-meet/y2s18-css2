@@ -21,7 +21,7 @@ Open `lab1.html` in your browser. Take a look at it, before you make all your ch
 
 ## 4. Style the sidebar
 
-- Give it a padding of 10px on the left and right, and 15px on the top and bottom.
+- Give it a padding of 15px on the left and right, and 10px on the top and bottom.
 ### Reload the page
 - Notice that the sidebar and main content are overlapping!
 - **Fix this issue** by making the width of the sidebar smaller (see the slide on total width and height to adjust your calculations)
