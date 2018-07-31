@@ -24,7 +24,9 @@ Open `lab1.html` in your browser. Take a look at it, before you make all your ch
 - Give it a padding of 15px on the left and right, and 10px on the top and bottom.
 ### Reload the page
 - Notice that the sidebar and main content are overlapping!
-- **Fix this issue** by making the width of the sidebar smaller (see the slide on total width and height to adjust your calculations)
+#### Fix this issue 
+  - Make the by making the **total width**  of the sidebar smaller be 200px 
+  - see the slide on total width and height to adjust your calculations)
 
 ## 5. Style the main content
 - Give it a 5 pixel wide, solid, blue border.
