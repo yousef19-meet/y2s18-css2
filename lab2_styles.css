@@ -15,4 +15,16 @@ p {
 
 a {
     color:red;
+
+}
+a:hover {
+	background-color: black;
+	}
+
+#important-paragraph:hover{
+	background-color: yellow;
+	font-size:40pt;
+}
+.less_important_things:hover{
+	background-color: blue;
 }
