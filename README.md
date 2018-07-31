@@ -25,7 +25,7 @@ Open `lab1.html` in your browser. Take a look at it, before you make all your ch
 ### Reload the page
 - Notice that the sidebar and main content are overlapping!
 #### Fix this issue 
-  - Make the by making the **total width**  of the sidebar smaller be 200px 
+  - Make the by making the **total width**  of the sidebar be 200px 
   - see the slide on total width and height to adjust your calculations)
 
 ## 5. Style the main content
